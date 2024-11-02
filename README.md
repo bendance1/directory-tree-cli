@@ -24,7 +24,7 @@ A command-line interface tool for manipulating directory trees in memory. This t
 
 ```bash
 # Clone the repository
-git clone https://github.com/bendance/directory-tree-cli.git
+git clone https://github.com/bendance1/directory-tree-cli.git
 
 # Navigate to project directory
 cd directory-tree-cli
