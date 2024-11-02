@@ -139,13 +139,6 @@ npm install
 npm test
 ```
 
-### Formatting
-
-```bash
-# Format code using Prettier
-npm run format
-```
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
